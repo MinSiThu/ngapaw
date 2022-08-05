@@ -1,0 +1,25 @@
+{
+  "name": "ngapaw",
+  "version": "1.0.0",
+  "description": "a library for ngapaw developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MinSiThu/ngapaw.git"
+  },
+  "keywords": [
+    "ngapaw",
+    "words",
+    "burmese",
+    "myanmar"
+  ],
+  "author": "minsithu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MinSiThu/ngapaw/issues"
+  },
+  "homepage": "https://github.com/MinSiThu/ngapaw#readme"
+}
