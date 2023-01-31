@@ -1,6 +1,6 @@
 {
   "name": "ngapaw",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "a library for ngapaw developers",
   "main": "index.js",
   "scripts": {
