@@ -53,10 +53,10 @@ const data = [
     "ရန်ကုန်မှာဆိုးနေတာ မင်းတို့ ပီအိတ်ခ်ျပီဒတ်ပလော်ဘာတွေ",
     "Developer နဲ့ ONS ပြီး Error အတူတူရှာကြတာလား ?",
     
-    //Thura Lin Htut in Ngapaw
+    //Thura Lin Htut's talkie in Ngapaw
     "ကျွန်တော်က ဖူးစတက် ဒတ်ပလော်ဘာပါ ဒါမဲ့ ပိုက်ဆံမရှိပါဘူး",
     "Code ရေးပြီး ဘယ်လို ပိုက်ဆံရှာရတာလဲ",
-    "ကျွန်တော်အစ်ကိုက ကွန်ပျူတာဘွဲ့ရပါ။ သူအခု ဆိုက်ကားနင်းနေပါတယ်။",
+    // "ကျွန်တော်အစ်ကိုက ကွန်ပျူတာဘွဲ့ရပါ။ သူအခု ဆိုက်ကားနင်းနေပါတယ်။", // I comment out this line, cause this may be offensive to a community,
     "ကျွန်တော်က React Developer ပါ။ လူတွေရှေ့ရောက်ရင် Hacker လို့ထင်အောင်လို့ `npm install` ကို ခဏခဏ လုပ်ပါတယ်။",    
     "Android Studio ကို Ram 4 Gb နဲ့ သုံးလို့ရပါတယ် 👌",   
    ]
