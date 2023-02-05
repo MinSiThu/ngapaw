@@ -11,4 +11,5 @@ const NgaPaw = require('ngapaw')
 const ngapaw = new NgaPaw()
 
 console.log(ngapaw.sayRandom());
+console.log(ngapaw.bestLanguage());
 ```
